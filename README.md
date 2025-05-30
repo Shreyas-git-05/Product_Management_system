@@ -129,22 +129,22 @@ http://localhost:8080/MarkWebApp/
 ## 🖼 Screenshots
 
 ### 🏠 Home Page
-<img src="screenshots/home.png" alt="Home Page" width="700"/>
+<img src="screenshots/HOME.png" alt="Home Page" width="700"/>
 
 ### ➕ Add Marks Page
-<img src="screenshots/add.png" alt="Add Marks Page" width="700"/>
+<img src="screenshots/ADDPRODUCT.png" alt="Add Marks Page" width="700"/>
 
 ### 🆕 Update Details
-<img src="screenshots/up_date.png" alt="Search Student" width="700"/>
+<img src="screenshots/UPDATEPRODUCT.png" alt="Search Student" width="700"/>
 
 ### ❌ Delete Details
-<img src="screenshots/delete.png" alt="Search Student" width="700"/>
+<img src="screenshots/DELETEPRODUCT.png" alt="Search Student" width="700"/>
 
 ### 📋 Display Marks
-<img src="screenshots/display.png" alt="Display Marks" width="700"/>
+<img src="screenshots/DISPLAYPRODUCT.png" alt="Display Marks" width="700"/>
 
 ### Reports
-<img src="screenshots/report.png" alt="Search Student" width="700"/>
+<img src="screenshots/REPORT.png" alt="Search Student" width="700"/>
 
 ## 🎯 Usage Application
 
